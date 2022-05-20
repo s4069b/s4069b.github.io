@@ -1,4 +1,4 @@
-# home
+# blencowes.net
 
 ![image](images/mof.png)
 ![image](images/brriv.png)
