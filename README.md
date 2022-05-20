@@ -1,8 +1,8 @@
 # blencowes.net
 
-![image](mof.png)
-![image](brriv.png)
-![image](malool.png)
-![image](bluem.png)
-![image](kngs.png)
+![image](images/mof.png)
+![image](images/brriv.png)
+![image](images/malool.png)
+![image](images/bluem.png)
+![image](images/kngs.png)
 
