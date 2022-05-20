@@ -1,7 +1,8 @@
----
 layout: page
-title: blencowes.net
----
+title: "PAGE TITLE"
+permalink: /about/
+
+
 bathurst
 brisbane
 sydney
